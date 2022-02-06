@@ -1,4 +1,3 @@
-<a href="#"><img width="1000" height="300" src="https://pa1.narvii.com/6316/8ff2a0fce3b56daccb71fb576139eb97843b6bf6_hq.gif" height="175px"/></a>
 
 <h1 align="center">Hi 👋, I'm Kunal Kaushik</h1>
 <h3 align="center">A passionate developer from India</h3>
@@ -6,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunal-8789&label=Profile%20views&color=0e75b6&style=flat" alt="kunal-8789" /> </p>
 
-- 🔭 I’m currently working on **Web Devlopment**
+- 🔭 I’m currently working on **Web and App Devlopment,**
 
 - 🌱 I’m currently learning **Elm**
 
