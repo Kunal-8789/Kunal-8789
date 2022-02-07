@@ -37,7 +37,7 @@
 
 <br/>
 
-<a href="https://github.com/Kunal-8789/github-readme-activity-graph"><img alt="Kunal's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Kunal-8789&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=kunal-8789&&theme=xcode)
 
 
 <h3 align="left">Connect with me:</h3>
