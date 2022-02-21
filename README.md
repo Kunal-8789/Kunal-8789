@@ -37,8 +37,8 @@
 
 <br/>
 
-![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=kunal-8789&&theme=xcode)
-
+<!-- ACTIVITY GRAPH TRACKER -->
+[![riti's github activity graph](https://activity-graph.herokuapp.com/graph?username=Kunal-8789&theme=react-dark)](https://github.com/Kunal-8789/github-readme-activity-graph)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
