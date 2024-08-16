@@ -6,9 +6,9 @@
 
 ## 🙋‍♂️ About Me 
 
-- 🔭 I’m currently working on **Traceable** as a **Software Developer.**
+- 🔭 I’m working in **Traceable** as a **Software Developer.**
 
-- 💬 Ask me about **Flutter,Dart,Firebase or any tech related stuff.**
+- 💬 Ask me about **Spark,Grpc,Iceberg or any tech related stuff.**
 
 - 📫 How to reach me **kaushikkunal2001@gmail.com**
 
