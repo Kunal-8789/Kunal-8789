@@ -6,16 +6,11 @@
 
 ## 🙋‍♂️ About Me 
 
-- 🔭 I’m currently working on **Web and App Devlopment,**
-
-- 🌱 I’m currently learning **Elm**
+- 🔭 I’m currently working on **Traceable** as a **Software Developer.**
 
 - 💬 Ask me about **Flutter,Dart,Firebase or any tech related stuff.**
 
 - 📫 How to reach me **kaushikkunal2001@gmail.com**
-
-- ⚡ Fun fact **I spend almost 8 hours listening to songs every day.**
-
 
 ## 🚀 Languages and Tools:
 
